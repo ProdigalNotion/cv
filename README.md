@@ -1,2 +1,2 @@
-# cv
-This is a CV for ProdigalNotion
+# Curriculum Vitae
+This is a Curriculum Vitae for ProdigalNotion
